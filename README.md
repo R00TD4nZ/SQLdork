@@ -1,7 +1,7 @@
 # SQLdork
 Scanner Website SQL vulnerability with Dork - Script Python 2
  
-Before running the script, install google GoogleSearch, for the script to run
+1. Before running the script, install google GoogleSearch, for the script to run
 
 to install:
 
