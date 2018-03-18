@@ -16,7 +16,7 @@ Script usage :
 $ git clone https://github.com/R00TD4nZ/SQLdork.git
 
 $ cd SQLdork
- 
+
 $ chmod +x SQLdork.py
- 
+
 $ python2 SQLdork.py
