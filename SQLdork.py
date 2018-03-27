@@ -1,6 +1,6 @@
 ###############################
 #
-#author:r00t#d4nZ
+#author:r00t#d4nZ with bhai45bull
 #desain:r00t#d4nZ with bhai45bu11
 #usage:
 #python SQLdork.py
